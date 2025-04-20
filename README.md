@@ -1,4 +1,4 @@
-# Examining Hospital Readmissions
+# Predicting Hospital Readmissions
 
 Hospital Readmissions are challenging, since these increase hospital's costs and represent underperforming healthcare service. Therefore, being able to predict such readmissions can lead to improved patient care and substantial cost savings.
 
